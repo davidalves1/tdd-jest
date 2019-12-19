@@ -1,0 +1,11 @@
+{
+  "name": "tdd-jest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:davidalves1/tdd-jest.git",
+  "author": "davidalves1 <contato@davidalves1.com> (https://davidalves1.com)",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^24.9.0"
+  }
+}
